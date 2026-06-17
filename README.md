@@ -17,6 +17,7 @@ Une liste complète des outils et ressources **IA gratuits** pour tous : débuta
 - [Stable Diffusion](https://stability.ai/) – Images open source
 - [Craiyon](https://www.craiyon.com/) – Génération rapide d’images AI gratuite
 - [DeepAI](https://deepai.org/) – Divers outils visuels AI
+- [Seedream AI Studio](https://seedream4.video/) – Plateforme de génération d'images AI multi-modèles (Seedream 5.0/4.5/4.0) par ByteDance, classée #1 à l'AI Image Arena. Niveau gratuit disponible.
 
 ## Audio et Musique
 - [Audiocraft](https://github.com/facebookresearch/audiocraft) – Génération audio AI
